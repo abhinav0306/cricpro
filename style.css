@@ -1,0 +1,30 @@
+/* Type your code here */
+body {
+  background-image: url("https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png");
+  background-size: cover;
+}
+
+.logo {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  margin: 10px;
+}
+
+
+table{
+    width: 1000px;
+    background-color: #FAFAFA;
+}  
+td{
+    padding: 10px;    
+}
+tr{
+    border-bottom: 1px solid black;
+}
+
+.innings {
+  background-color: #F05033;
+  color: white;
+  text-align: center; /* Add this to center the text */
+}
